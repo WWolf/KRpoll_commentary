@@ -24,7 +24,7 @@
 * [미디어토마토](MediaTomato.md)
 * [여론조사공정](EmptyJustice.md)
 * [미디어리서치](MediaResearch.md)
-(업데이트 예정)
+* (업데이트 예정)
 
 
 # 의뢰기관들 현황
