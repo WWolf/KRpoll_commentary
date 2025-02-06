@@ -33,3 +33,18 @@
 
 ![image](https://github.com/user-attachments/assets/52d3864f-924b-4a06-ac30-7971a5e8cff3)
 
+
+# 가중법별 현황
+
+![image](https://github.com/user-attachments/assets/feb46d8f-3380-44df-b314-fe7a3fefee6e)
+
+![image](https://github.com/user-attachments/assets/90e59930-c4fb-4360-8468-c21c07d62fe0)
+
+# 조사방법별 현황
+
+![image](https://github.com/user-attachments/assets/dbece8c2-8c78-405a-ad47-b47f5fb4d27d)
+
+![image](https://github.com/user-attachments/assets/d0620658-8821-496b-8757-5dc0eda23e09)
+
+
+
