@@ -31,7 +31,7 @@
 
 ![image](https://github.com/user-attachments/assets/17ac0f71-fdd4-448c-a9c8-b84e5211c87c)
 
-게다가, 일단 받은 사람들이 응답을 완료하는 비율도 ARS/RDD라는 조사방식 기준으로도 굉장히 높은 비율을 유지하고 있다 (대선 때 ARS/RDD업계들보다도 높았던 적도 있었다)
+게다가, 일단 받은 사람들이 응답을 완료하는 비율 (협조율, 통상적으로 언론에서 응답률이라고 부름)도 ARS/RDD라는 조사방식 기준으로도 굉장히 높은 비율을 유지하고 있다 (대선 때 ARS/RDD업계들보다도 높았던 적도 있었다). 이는 과거 높은 접촉률을 보였던 다른 조사업체들과도 구분되는 지점이다.
 
 ![image](https://github.com/user-attachments/assets/9e0d1e75-9c20-4d6e-9072-ba08934e90b0)
 
