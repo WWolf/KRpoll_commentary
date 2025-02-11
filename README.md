@@ -15,16 +15,19 @@
 
 위 타임라인에서 보이듯이, 정기적으로, 거의 끊김없이 오랜동안 전국조사를 수행한 업체들에 대한 메타정보들을 정리하려고 합니다.
 
+* [KOPRA](KOPRA.md) (Updated: 2025-02-10)
+
 * [NBS](NBS.md)
 * [한국갤럽조사연구소](Gallup.md)
 * [여론조사꽃](Flower.md)
+
+* (업데이트 예정)
 * [리얼미터](Realmeter.md)
 * [조원씨앤아이](Jowon.md)
 * [리서치뷰](ResearchView.md)
 * [미디어토마토](MediaTomato.md)
 * [여론조사공정](EmptyJustice.md)
 * [미디어리서치](MediaResearch.md)
-* (업데이트 예정)
 
 
 # 의뢰기관들 현황
