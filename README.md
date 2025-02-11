@@ -38,21 +38,27 @@
 ![image](https://github.com/user-attachments/assets/c7fd0de2-da26-4b45-b494-a371f462aea3)
 
 
-# 가중법별 현황
-
-![image](https://github.com/user-attachments/assets/bd5fe6a7-4a48-4cec-b561-90bc866a2699)
-
-![image](https://github.com/user-attachments/assets/a7eda3ec-44ba-4d63-90ab-81b1c4db8bae)
-
 # 조사방법별 현황
+
+참조: 휴대전화에 대한 가상번호가 가능해진 것은 [2017년 공직선거법 개정](https://www.hani.co.kr/arti/politics/assembly/927878.html) 때문으로, 2020년부터 본격적으로 가상번호를 활용한 전화여조가 확대되었다. 이에 따라 2020년 총선 직전부터 전국 여론조사에 가상번호 활용이 늘어난 것을 볼 수 있다.
 
 ![image](https://github.com/user-attachments/assets/88810c59-f2a3-49da-9b4c-71d8a6380e8c)
 
 ![image](https://github.com/user-attachments/assets/25810e21-8bf9-4b25-8498-0c582f8509ea)
 
 
+# 가중법별 현황
+
+참조: 대개 ARS/RDD와 같이 빠른 조사방법이 림가중법을 쓰는데, 꾸준히 일정수의 조사기관들이 림가중법으로 가중하고 있다.
+
+![image](https://github.com/user-attachments/assets/bd5fe6a7-4a48-4cec-b561-90bc866a2699)
+
+![image](https://github.com/user-attachments/assets/a7eda3ec-44ba-4d63-90ab-81b1c4db8bae)
+
 
 # 기타
 
 * [갤럽조사연구소의 조사담](https://www.gallup.co.kr/gallupdb/column.asp) 전화여론조사 관련 중요한 정보들 많이 해제, 일독 추천.
 * [여론조사 해석의 기초](https://kivoloid.notion.site/194512210ea78000bdfed50cc0e95f76) [@kivol.net](https://bsky.app/profile/kivol.net) - 메타 지표들에 대한 설명 기술
+* [2024년 대한민국 총선 여조/선거결과 단상](https://wwolf.github.io/2024KRelection_commentary/) 자매페이지
+* [22대 총선 지역구 판세 그림판](https://github.com/WWolf/electionscratchpad_KR2024) 자매페이지
