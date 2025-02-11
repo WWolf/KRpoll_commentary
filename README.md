@@ -53,4 +53,5 @@
 
 # 기타
 
-* [여론조사 해석의 기초](https://kivoloid.notion.site/194512210ea78000bdfed50cc0e95f76) [@kivol.net](https://bsky.app/profile/kivol.net) - 메타 지표에 대한 설명 기술되어 있습니다.
+* [갤럽조사연구소의 조사담](https://www.gallup.co.kr/gallupdb/column.asp) 전화여론조사 관련 중요한 정보들 많이 해제, 일독 추천.
+* [여론조사 해석의 기초](https://kivoloid.notion.site/194512210ea78000bdfed50cc0e95f76) [@kivol.net](https://bsky.app/profile/kivol.net) - 메타 지표들에 대한 설명 기술
