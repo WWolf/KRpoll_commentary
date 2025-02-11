@@ -51,3 +51,6 @@
 
 
 
+# 기타
+
+* [https://kivoloid.notion.site/194512210ea78000bdfed50cc0e95f76](여론조사 해석의 기초) [@kivol.net](https://bsky.app/profile/kivol.net) - 메타 지표에 대한 설명 기술되어 있습니다.
