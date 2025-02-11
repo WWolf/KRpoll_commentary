@@ -7,9 +7,9 @@
 
 # (전국) 조사기관들 현황
 
-![image](https://github.com/user-attachments/assets/39b756bf-9937-4f9b-8295-aa5233c04e1f)
+![image](https://github.com/user-attachments/assets/39e44ee8-539f-4a14-afe0-d11c287af084)
 
-![image](https://github.com/user-attachments/assets/85beb47d-a037-4604-b72f-53b844dae389)
+![image](https://github.com/user-attachments/assets/be0b0a2e-381a-475e-a7da-007c9c9a75c7)
 
 # (전국) 조사기관별 프로필
 
@@ -29,22 +29,22 @@
 
 # 의뢰기관들 현황
 
-![image](https://github.com/user-attachments/assets/9cf57b21-f722-48b3-887f-483dbb8df002)
+![image](https://github.com/user-attachments/assets/d787e839-b3b1-44d7-bbbb-77dd410d1f8c)
 
-![image](https://github.com/user-attachments/assets/52d3864f-924b-4a06-ac30-7971a5e8cff3)
+![image](https://github.com/user-attachments/assets/c7fd0de2-da26-4b45-b494-a371f462aea3)
 
 
 # 가중법별 현황
 
-![image](https://github.com/user-attachments/assets/feb46d8f-3380-44df-b314-fe7a3fefee6e)
+![image](https://github.com/user-attachments/assets/bd5fe6a7-4a48-4cec-b561-90bc866a2699)
 
-![image](https://github.com/user-attachments/assets/90e59930-c4fb-4360-8468-c21c07d62fe0)
+![image](https://github.com/user-attachments/assets/a7eda3ec-44ba-4d63-90ab-81b1c4db8bae)
 
 # 조사방법별 현황
 
-![image](https://github.com/user-attachments/assets/dbece8c2-8c78-405a-ad47-b47f5fb4d27d)
+![image](https://github.com/user-attachments/assets/88810c59-f2a3-49da-9b4c-71d8a6380e8c)
 
-![image](https://github.com/user-attachments/assets/d0620658-8821-496b-8757-5dc0eda23e09)
+![image](https://github.com/user-attachments/assets/25810e21-8bf9-4b25-8498-0c582f8509ea)
 
 
 
