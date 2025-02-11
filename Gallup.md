@@ -6,6 +6,17 @@
 * 화, 수, 목 3일동안 수행하는 조사이며, 총 조사시간은 24시간 정도로 등록되어 있음.
 
 # 메타 지표 개관
-![image](https://github.com/user-attachments/assets/ef33c338-c65a-4cdc-9cc8-47a6f07b5399)
+
+2020년 1월 1일부터. 조사시간의 경우, 정확한 시간을 기입하는 것인지 약간 의심스럽다.
+
+![image](https://github.com/user-attachments/assets/fa671786-56b6-487d-8dfd-52f219ad8538)
 
 
+
+# 응답자 상세 특성 개관
+
+
+![image](https://github.com/user-attachments/assets/d46539ab-45fe-4df8-8bc0-55ac1fee5122)
+
+
+![image](https://github.com/user-attachments/assets/3ceb9d04-0b98-4f9d-89ba-4f2d3e984b01)
