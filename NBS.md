@@ -7,7 +7,8 @@
 
 # 메타 지표 개관
 
-![image](https://github.com/user-attachments/assets/f5397959-6cce-4d3c-b9dc-cf7aa2fd7494)
+![image](https://github.com/user-attachments/assets/e43c30bf-339d-4181-bd77-34b671e61314)
+
 
 # 응답자 상세 특성표
 
@@ -30,6 +31,7 @@ NBS의 특성은, 인구집단 특성표를 광역자치단체 기준으로 분�
 
 ![image](https://github.com/user-attachments/assets/b47782f6-0927-47c6-80bf-167aa6c8d5fb)
 
+![image](https://github.com/user-attachments/assets/886b2390-cdbe-4ddd-8563-5708e8bf6e89)
 
 
 
