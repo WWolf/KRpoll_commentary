@@ -1,18 +1,19 @@
 # KOPRA
 
-* 업데이트 일자: 2025-02-10
-* 주요 의뢰기관: 고성국TV(15), 아시아투데이(6)
+* 업데이트 일자: 2025-02-24
+* 주요 의뢰기관: 고성국TV(16), 아시아투데이(8)
 * 조사일수는 주로 이틀이지만, 3일 조사를 한 케이스들도 많다.
-![image](https://github.com/user-attachments/assets/867b9a80-cc62-4adc-b213-3f84942cfc9f)
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/1be8859f-75dd-4cef-84cb-43c3ddab12d1" />
 
 * 조사방법: 1건을 제외하고 모두 100% 무선 ARS, RDD.
 * 최초 전국 등록조사 2022-12-31. 2023년 1월 17일 당대표 선거 등으로 전국 조사 등장.
+* "전국조사"로 등재해놓고, 영남권 조사를 한 경우들이 있다.
 
 # 메타 지표 개관
 
 * 아시아투데이는 2025년부터 의뢰하기 시작했다.
 
-![image](https://github.com/user-attachments/assets/05d24ad5-a6ec-430e-9d37-b0c7c098db56)
+![image](https://github.com/user-attachments/assets/a085fe41-fd16-400f-b841-6adf200bb3ca)
 
 # 특이사항
 
