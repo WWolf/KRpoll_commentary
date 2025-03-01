@@ -7,7 +7,8 @@
 
 # 메타 지표 개관
 
-![image](https://github.com/user-attachments/assets/e43c30bf-339d-4181-bd77-34b671e61314)
+![image](https://github.com/user-attachments/assets/72992aa6-d4e3-4f06-896f-a30af0e76975)
+
 
 
 # 응답자 상세 특성표
