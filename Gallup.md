@@ -14,10 +14,15 @@
 
 # 응답자 상세 특성 개관
 
-![image](https://github.com/user-attachments/assets/0d072571-5408-4cbf-a0c6-59dfd15bce81)
+![image](https://github.com/user-attachments/assets/7bc702a6-fc42-47a8-812a-16bcb3bfc128)
+
 
 
 가장 최근 응답자 세부 특성, 가중배율이나 디자인효과는 나아진 편이다.
+
+![image](https://github.com/user-attachments/assets/d0c8ce99-14c4-4985-8633-b758f0b1f92f)
+
+![image](https://github.com/user-attachments/assets/7d265c45-9688-4d8d-be2c-088e74835c50)
 
 ![image](https://github.com/user-attachments/assets/0fefe20a-d096-4efa-8a4c-2ad25bff4df4)
 
